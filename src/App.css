@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Poppins:wght@600;900&display=swap');
+
+.font-questrial{
+    font-family: 'Questrial', sans-serif;
+}
+.font-island-moments{
+    font-family: 'Island Moments', sans-serif;
+}
+.font-poppins{
+    font-family: "Poppins",sans-serif;
+}
